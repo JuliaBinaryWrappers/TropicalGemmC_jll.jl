@@ -1,99 +1,99 @@
 [[TropicalGemmC]]
 arch = "x86_64"
 cuda = "11.4"
-git-tree-sha1 = "a69fc41cddedd5917b4bb015232066d0289600d6"
+git-tree-sha1 = "92dc204a666548b25fcc25124a9efd7f5bf47d32"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[TropicalGemmC.download]]
-    sha256 = "1ee08f3983882f47768905880027fec7a7988b532938cbdafa57626edb9db81f"
-    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.2+0/TropicalGemmC.v0.1.2.x86_64-linux-gnu-cuda+11.4.tar.gz"
+    sha256 = "bc5010a99c692ff21c128d47871e4b0a2feddffba5e59b6b0a7da9c0becc8839"
+    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.3+0/TropicalGemmC.v0.1.3.x86_64-linux-gnu-cuda+11.4.tar.gz"
 [[TropicalGemmC]]
 arch = "x86_64"
 cuda = "11.5"
-git-tree-sha1 = "e63224c01994ff0d489fb94314212b8d63242fc3"
+git-tree-sha1 = "b655780b5eb46024a4e0458879559772bca74a4e"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[TropicalGemmC.download]]
-    sha256 = "736f9440760b4bcc4a13548f0834b7e507e1cb9c98d4e5befa3eeb800f9707f8"
-    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.2+0/TropicalGemmC.v0.1.2.x86_64-linux-gnu-cuda+11.5.tar.gz"
+    sha256 = "603a02f1abc5d161e92a639ca42465cbdae55d696384656dae459014c312e520"
+    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.3+0/TropicalGemmC.v0.1.3.x86_64-linux-gnu-cuda+11.5.tar.gz"
 [[TropicalGemmC]]
 arch = "x86_64"
 cuda = "11.6"
-git-tree-sha1 = "7a67a8ae42bb6130a198929cd2d58770a4d113af"
+git-tree-sha1 = "abff4fa15b1b4362c6114a642a33d85d34c42a02"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[TropicalGemmC.download]]
-    sha256 = "0e3fe679fb7549299177153ab380f53a3fc6dc0aa5200e316a1c97af8ef1bb64"
-    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.2+0/TropicalGemmC.v0.1.2.x86_64-linux-gnu-cuda+11.6.tar.gz"
+    sha256 = "5484d3933a697c7202eaead1934400a8a044bf66d134c8481454914c2dca92e3"
+    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.3+0/TropicalGemmC.v0.1.3.x86_64-linux-gnu-cuda+11.6.tar.gz"
 [[TropicalGemmC]]
 arch = "x86_64"
 cuda = "11.7"
-git-tree-sha1 = "0fd7ef4e04f1445257ba9b4f81df678468d0a0d4"
+git-tree-sha1 = "631b8fe4bc491e524f47fc1807edd9ef67dcb964"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[TropicalGemmC.download]]
-    sha256 = "3bf7f43e1b0e36aafa7701e94002e5576ac47565e8c4e37ed669e96eeea6fd67"
-    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.2+0/TropicalGemmC.v0.1.2.x86_64-linux-gnu-cuda+11.7.tar.gz"
+    sha256 = "7e27b31a294ee85af957ae147d49d7ec00c41c1f911463eff86126e828b5b382"
+    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.3+0/TropicalGemmC.v0.1.3.x86_64-linux-gnu-cuda+11.7.tar.gz"
 [[TropicalGemmC]]
 arch = "x86_64"
 cuda = "11.8"
-git-tree-sha1 = "1eba0f2dc9db0e3d20f39ea79ebd11e69b204590"
+git-tree-sha1 = "d50ce41669db3afb8982ca63790fe4ea95af23ec"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[TropicalGemmC.download]]
-    sha256 = "c447c77c0c8e76b4de01da8acbda3047dece67bd6cebcbd4b701d7609dd95bf1"
-    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.2+0/TropicalGemmC.v0.1.2.x86_64-linux-gnu-cuda+11.8.tar.gz"
+    sha256 = "c56db2be85f6799772b67dc3c17ebe09bb590e7e1bb3093510524f4b8f8ffc9b"
+    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.3+0/TropicalGemmC.v0.1.3.x86_64-linux-gnu-cuda+11.8.tar.gz"
 [[TropicalGemmC]]
 arch = "x86_64"
 cuda = "12.0"
-git-tree-sha1 = "a294187fe52b01b0d47a57ab0d5fd73b7bbc4697"
+git-tree-sha1 = "c8e42e9c008cb2ff2c915353222aeff53d96d122"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[TropicalGemmC.download]]
-    sha256 = "6f4da32ab0e6fa2a15d711aff356f629d581a81a3a2b3201080745f3dd6aa6fc"
-    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.2+0/TropicalGemmC.v0.1.2.x86_64-linux-gnu-cuda+12.0.tar.gz"
+    sha256 = "653f9bfb866e589871270c8fec20491b928d30f880aaf0a2af32a7132998a69e"
+    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.3+0/TropicalGemmC.v0.1.3.x86_64-linux-gnu-cuda+12.0.tar.gz"
 [[TropicalGemmC]]
 arch = "x86_64"
 cuda = "12.1"
-git-tree-sha1 = "e9e8fe75e863778bb325780df0fed4130a0cdaf2"
+git-tree-sha1 = "1f480025b8734a19a5d0b3851c85cff6741740ea"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[TropicalGemmC.download]]
-    sha256 = "e2cb818642102611230c6168d97bb547065e296e146dc27ed3daf3143bbe22a6"
-    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.2+0/TropicalGemmC.v0.1.2.x86_64-linux-gnu-cuda+12.1.tar.gz"
+    sha256 = "7cc5b26a12fcd773cac141a4c8b951691d560140a3a5fd3f280f094df70aa38b"
+    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.3+0/TropicalGemmC.v0.1.3.x86_64-linux-gnu-cuda+12.1.tar.gz"
 [[TropicalGemmC]]
 arch = "x86_64"
 cuda = "12.2"
-git-tree-sha1 = "4354d0330187be33f2648ec352709b90fc1af2f2"
+git-tree-sha1 = "66c08011b12e102db9c2a50aa2f052b39049bfe9"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[TropicalGemmC.download]]
-    sha256 = "4fb1876fed032f9a72078e613e7db93fc4a2ce3517c0f4c7e01c23838072180b"
-    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.2+0/TropicalGemmC.v0.1.2.x86_64-linux-gnu-cuda+12.2.tar.gz"
+    sha256 = "9ac63d1b50fc4aa20b75f279ef07bfcf763d4cee8d34a4079d07c6691228e9eb"
+    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.3+0/TropicalGemmC.v0.1.3.x86_64-linux-gnu-cuda+12.2.tar.gz"
 [[TropicalGemmC]]
 arch = "x86_64"
 cuda = "12.3"
-git-tree-sha1 = "d3721846c981ec2121b76dc73377aac52983da30"
+git-tree-sha1 = "afad71039b1ca2d743356ca1f035edd1d0a8ea4e"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[TropicalGemmC.download]]
-    sha256 = "334861bcac97be38cacb75bda683cd29340d179d90e8fbb238ab9bd026ca6c7e"
-    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.2+0/TropicalGemmC.v0.1.2.x86_64-linux-gnu-cuda+12.3.tar.gz"
+    sha256 = "90fc9378dc6781e12cc066cd53ed4c6ac02e5c713b3902d9df691b9d1ccf871a"
+    url = "https://github.com/JuliaBinaryWrappers/TropicalGemmC_jll.jl/releases/download/TropicalGemmC-v0.1.3+0/TropicalGemmC.v0.1.3.x86_64-linux-gnu-cuda+12.3.tar.gz"
